@@ -1,0 +1,15 @@
+E:\Andris\ IT beginnings\Software Development Academy\CountryApp\src\main\java\com\sda\countryApp\servlet\region_servlet\UpdateRegionServlet.java
+E:\Andris\ IT beginnings\Software Development Academy\CountryApp\src\main\java\com\sda\countryApp\repository\CountryRepository.java
+E:\Andris\ IT beginnings\Software Development Academy\CountryApp\src\main\java\com\sda\countryApp\model\Country.java
+E:\Andris\ IT beginnings\Software Development Academy\CountryApp\src\main\java\com\sda\countryApp\model\Region.java
+E:\Andris\ IT beginnings\Software Development Academy\CountryApp\src\main\java\com\sda\countryApp\servlet\country_servlet\ListCountryServlet.java
+E:\Andris\ IT beginnings\Software Development Academy\CountryApp\src\main\java\com\sda\countryApp\servlet\country_servlet\UpdateCountryServlet.java
+E:\Andris\ IT beginnings\Software Development Academy\CountryApp\src\main\java\com\sda\countryApp\servlet\region_servlet\DeleteRegionServlet.java
+E:\Andris\ IT beginnings\Software Development Academy\CountryApp\src\main\java\com\sda\countryApp\servlet\region_servlet\AddRegionServlet.java
+E:\Andris\ IT beginnings\Software Development Academy\CountryApp\src\main\java\com\sda\countryApp\servlet\country_servlet\AddCountryServlet.java
+E:\Andris\ IT beginnings\Software Development Academy\CountryApp\src\main\java\com\sda\countryApp\servlet\country_servlet\DeleteCountryServlet.java
+E:\Andris\ IT beginnings\Software Development Academy\CountryApp\src\main\java\com\sda\countryApp\servlet\country_servlet\DeleteButtonCountryServlet.java
+E:\Andris\ IT beginnings\Software Development Academy\CountryApp\src\main\java\com\sda\countryApp\servlet\country_servlet\ListCountryByRegion.java
+E:\Andris\ IT beginnings\Software Development Academy\CountryApp\src\main\java\com\sda\countryApp\servlet\region_servlet\ListRegionServlet.java
+E:\Andris\ IT beginnings\Software Development Academy\CountryApp\src\main\java\com\sda\countryApp\repository\RegionRepository.java
+E:\Andris\ IT beginnings\Software Development Academy\CountryApp\src\main\java\com\sda\countryApp\servlet\region_servlet\DeleteButtonRegionServlet.java
